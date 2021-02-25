@@ -21,7 +21,7 @@ The code should run with no issues using Python versions 3.*.
 the data set is available [here](https://www.kaggle.com/airbnb/seattle).
 
 ## File Descriptions
-The Jupyter notebook showcases the analysis done  to explore the dataset, the data preparation and wrangling as well as the building of prediction models in order to answer the questions above. 
+The Jupyter notebook has the data preparation and wrangling in order to answer the questions above. 
 The seattle folder contains the dataset from Kaggle (https://www.kaggle.com/airbnb/seattle). It contains 3 files:
 
 * calendar.csv: calendar availability of listings and price
